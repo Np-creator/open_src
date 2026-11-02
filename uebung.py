@@ -52,3 +52,17 @@ while sum <= 100:
 
 print (sigma)
 
+
+
+############################### 
+
+# now find the biggest number inside a list in python 
+
+numbers = [12, 45, 7, 89, 23, 56]  
+
+                                 # good way of thinking 
+                                 # let's align a number index to the biggest one  
+                                 # then let the program kinda do the others for us like 
+                                 # comparing all the components and priting out the 
+                                 # biggest index 
+
