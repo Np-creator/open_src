@@ -1,5 +1,47 @@
-i = 1
+i = 1  
 
-while i < 100: 
-    i = i * 2  
-    print(i)
+while i <= 10: 
+
+    print(i) 
+
+    i += 1  
+
+
+print("\n new line \n")
+
+
+a = 2 
+
+while a <= 20: 
+
+    print(a) 
+
+    a += 2 
+
+
+print("\n new line \n")
+
+
+b = 10  
+
+while b >= 0: 
+
+    print (b)
+
+    b -= 1
+
+
+print("\n new line \n")
+
+###############################
+###############################
+
+
+# now we need to add the sum of the first n(natural numbers together!)
+# so the first thing to start off with is the starting point which is i = 1
+
+i = 1    # here we need another tool so we can save up our 
+
+
+
+
