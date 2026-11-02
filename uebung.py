@@ -40,8 +40,15 @@ print("\n new line \n")
 # now we need to add the sum of the first n(natural numbers together!)
 # so the first thing to start off with is the starting point which is i = 1
 
-i = 1    # here we need another tool so we can save up our 
+sum = 1    # here we need another tool so we can save up our 
 
+sigma = 0
 
+while sum <= 100: 
 
+    sigma += sum
+
+    sum += 1
+
+print (sigma)
 
